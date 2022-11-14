@@ -1,8 +1,6 @@
-# 10. Write a python script to calculate area of a rectangle
+# 10. Write a python script to print first 10 multiples of 5
 
-# L * B
-
-l=int(input("Enter Value of Length\t"))
-w=int(input("Enter Value of Width\t"))
-a=l*w
-print("The Area of Rectangle is =",a)
+i=1
+while i<=10 :
+    print(i*5,end=' ')
+    i+=1
