@@ -1,0 +1,16 @@
+1. Write a Python script to create a list of first N natural numbers.
+2. Write a Python script to create a list of first N odd natural numbers.
+3. Write a Python script to create a list of first N even natural numbers.
+4. Write a Python script to find the greatest number in a given list of numbers.
+5. Write a python script to add an item to the end of the list (item “Python”. (mylist =
+["Java", "SQL", "C", "Reactnative"]
+6. Write a python program to append elements from another list to the current list.(
+firstlist = ["Java", "Python", "SQL"]
+secondlist = ["C", "Cpp", "NoSQL"] )
+7. Write a python program to Print all items by referring to their index number (thislist =
+["Java", "SQL", "C", "Reactnative", "Javascript", "Python"]
+8. Write a python program to sort the list alphanumerically – thislist = ["Java", "SQL",
+"C", "Reactjs", "Javascript", "Python"]
+9. Write a Python script to create a list of city names taken from the user.
+10. Write a Python script to create a list, where each element of the list is a First digit of a
+given number in two digit.
