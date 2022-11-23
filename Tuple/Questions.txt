@@ -1,0 +1,6 @@
+1. Write a python script to store multiple items in a single variable ( Items are “Java”
+,“Python”, “SQL”, “C” ) using tuple
+2. Write a python program to store only one item using tuple.
+3. Write a python program to reverse the tuple.
+4. Write a python program to Swap two tuples in Python.
+5. Write a python program to check if all items in the tuple are the same.
