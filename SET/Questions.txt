@@ -1,0 +1,8 @@
+1. Write a python program to store all the programming languages known to you using
+Set.
+2. Write a python program to store your own information {name, age, gender, so on..}
+3. Write a python script to get the data type of a Set.
+4. Write a Python script to find if “Python” is present in the set thisset = {"Java",
+"Python", "Django"}
+5. Write a python program to add items from another set to the current set. thisset =
+{"Java", "Python", "SQL"}
