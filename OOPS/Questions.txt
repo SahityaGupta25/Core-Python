@@ -1,0 +1,8 @@
+1. Write a python program to create a user class with 3 properties : name, age, email.
+2. Write a python program to create 3 user objects and find the youngest of all.
+3. Write a python program to create 2 objects of the user class and assign different
+values.
+4. Write a python program to init default values for user object using __init__ method.
+5. Write a python program to create a Laptop class with 4 attributes (brand, ram, cpu,
+hdd) and 2 methods (showConfig() to print the values, __init__() to initialize the
+values).
