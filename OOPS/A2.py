@@ -1,15 +1,8 @@
-# Parameters
+class ABC:
+    xyz='Mathew' # Class Variable
+    def __init__(self) :
+        self.marks=66
 
-class Human:
-    v='vasu'
-    def __init__(self,x,y,z) :
-        self.age=x
-        self.gender=y
-        self.number=z
+q1=ABC() # Object of ABC Class
 
-    def second(self):
-        print(self.age,self.gender)
-
-abc=Human(16,'Male',66)
-print(abc.number)
-
+print(q1.xyz)
