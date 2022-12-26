@@ -1,6 +1,17 @@
-class ABC:
-    def __init__(self) :
-        self.marks=66
+# Self
 
-o1=ABC()
-print(o1.marks)
+class students:
+    def __init__(self,m1) :
+        self.marks1=m1
+        
+    def compare(a,b):
+        if a.marks1>b.marks1:
+            print("a is greater")
+        else:
+            print("b is greater")
+
+a=students(50)
+b=students(80)
+
+ 
+
